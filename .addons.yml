@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  unifi:
+    repository: nxfifteen/hassio-addons
+    target: unifi
+    image: ghcr.io/hassio-addons/unifi/{arch}
